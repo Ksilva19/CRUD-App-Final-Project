@@ -1,7 +1,6 @@
 {
   "name": "crud-app-final-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "bootstrap": "^5.1.1",
     "jquery": "^3.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ksilva19/CRUD-App-Final-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ksilva19/CRUD-App-Final-Project/issues"
+  },
+  "homepage": "https://github.com/Ksilva19/CRUD-App-Final-Project#readme",
+  "description": ""
 }
